@@ -28,6 +28,8 @@ The product is tested on multiple platforms like Google Chrome, Microsoft edge, 
 
 1. Download the zip file from the github.
 
+  <p align='center'><img src=""/></p>
+
 ## License 
 
 stayForever is distributed under the Apache 2.0 license
