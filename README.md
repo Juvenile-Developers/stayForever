@@ -38,8 +38,10 @@ The product is tested on multiple platforms like Google Chrome, Microsoft edge, 
  
 4. Now you are all ready 
 
+  <p align='center'><img src="A7622B8C-AAA8-4AB2-B31F-16EC8E9185D3.png"/></p
 
-
+  
 ## License 
 
+  
 stayForever is distributed under the Apache 2.0 license
