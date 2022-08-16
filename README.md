@@ -31,8 +31,11 @@ The product is tested on multiple platforms like Google Chrome, Microsoft edge, 
   <p align='center'><img src="image_2022-08-16_134200987.png"/></p>
 
 2. Then open the web browser of your choice, then head on to the extensions, and then toggle between the developer mode button and make sure that it is turned on. 
+
+3. Then smassh the load unpacked button on your screen and then select the extracted folder.
   
   <p align='center'><img src="Screenshot (25).png"/></p>
+ 
   
 
 ## License 
