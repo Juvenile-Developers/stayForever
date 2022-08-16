@@ -36,7 +36,9 @@ The product is tested on multiple platforms like Google Chrome, Microsoft edge, 
   
   <p align='center'><img src="Screenshot (25).png"/></p>
  
-  
+4. Now you are all ready 
+
+
 
 ## License 
 
